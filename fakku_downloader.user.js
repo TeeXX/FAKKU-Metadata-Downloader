@@ -6,6 +6,12 @@
 // @supportURL  https://github.com/TeeXX/FAKKU-Metadata-Downloader/issues
 // @license     GPL-3.0-only
 // @version     1.0
+// @compatible  firefox Violentmonkey
+// @compatible  firefox Tampermonkey
+// @compatible  chrome Violentmonkey
+// @compatible  chrome Tampermonkey
+// @compatible  edge Violentmonkey
+// @compatible  edge Tampermonkey
 // @match       *://www.fakku.net/hentai/*
 // @grant       none
 // @require     https://cdn.jsdelivr.net/npm/dayjs@1.11.5/dayjs.min.js
