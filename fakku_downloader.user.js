@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name        FAKKU Doujin Metadata JSON Generator
+// @name        FAKKU Metadata JSON Downloader
 // @namespace   en.texx.scriptus
 // @author      TeeXX
-// @description This scripts adds a button that generates info.json filled with metadata
+// @description Adds a button that generates info.json metadata
 // @supportURL  https://github.com/TeeXX/FAKKU-Metadata-Downloader/issues
 // @license     GPL-3.0-only
-// @version     1.0
+// @version     1.1
+// @homepage    https://greasyfork.org/en/scripts/449932-fakku-doujin-metadata-json-generator
 // @compatible  firefox Violentmonkey
 // @compatible  firefox Tampermonkey
 // @compatible  chrome Violentmonkey
