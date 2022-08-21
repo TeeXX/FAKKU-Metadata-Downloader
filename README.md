@@ -1,7 +1,7 @@
 # FAKKU Metadata Downloader
 > Script that allows you to easily generate JSON metadata file from FAKKU doujin/hentai just by one click!
 
-[Source code](https://github.com/TeeXX/FAKKU-Metadata-Downloader) - [Report an issue, contribute](https://github.com/TeeXX/FAKKU-Metadata-Downloader/issues) - [Greasy Fork](https://greasyfork.org/en/scripts/449932-fakku-metadata-json-downloader)
+[Source code](https://github.com/TeeXX/FAKKU-Metadata-Downloader) - [Report an issue, contribute](https://github.com/TeeXX/FAKKU-Metadata-Downloader/issues) - [Greasy Fork](https://greasyfork.org/en/scripts/449932)
 
 </br>
 
