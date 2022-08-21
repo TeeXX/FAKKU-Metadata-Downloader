@@ -5,7 +5,7 @@
 // @description Adds a button that generates info.json metadata
 // @supportURL  https://github.com/TeeXX/FAKKU-Metadata-Downloader/issues
 // @license     GPL-3.0-only
-// @version     1.1
+// @version     1.2
 // @homepage    https://greasyfork.org/en/scripts/449932
 // @compatible  firefox Violentmonkey
 // @compatible  firefox Tampermonkey
