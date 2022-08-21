@@ -6,7 +6,7 @@
 // @supportURL  https://github.com/TeeXX/FAKKU-Metadata-Downloader/issues
 // @license     GPL-3.0-only
 // @version     1.1
-// @homepage    https://greasyfork.org/en/scripts/449932-fakku-doujin-metadata-json-generator
+// @homepage    https://greasyfork.org/en/scripts/449932
 // @compatible  firefox Violentmonkey
 // @compatible  firefox Tampermonkey
 // @compatible  chrome Violentmonkey
